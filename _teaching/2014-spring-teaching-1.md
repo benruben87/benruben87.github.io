@@ -1,8 +1,9 @@
 ---
-title: "Fall 2021 Teaching Fellow: Applied Physics 50A"
+title: "Applied Physics 50A: Physics as a Foundation for Science and Engineering"
 collection: teaching
-type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
-venue: "Harvard University"
+type: "Teaching Fellow"
+permalink: /teaching/applied-physics-50a-fall-2021
+venue: "Harvard"
 date: Fall 2021
+location: "Cambridge, MA, USA"
 ---
