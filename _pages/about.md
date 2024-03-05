@@ -10,7 +10,7 @@ redirect_from:
 
 I am a PhD candidate in the [Biophysics program](https://biophysics.fas.harvard.edu) at Harvard University, with the privilege of being advised by [Cengiz Pehlevan](https://pehlevan.seas.harvard.edu/people/cengiz-pehlevan).  I did my undergraduate at Rice University, graduating in 2020 with B.S. degrees in physics and chemical physics, and a B.A. in mathematics.  In my undergraduate research, I worked on the ogranization and mechanics of the genome, supervised by [Jos&eacute; Onuchic](https://ctbp.rice.edu/senior-scientist/jose-onuchic).
 
-In my PhD rsearch, I am broadly interested in neural computation and the properties of biological population codes.  My current research focuses on understanding how the physical constraints of biological neural networks, such as sparse connectivity, affect their ability to learn.
+In my PhD research, I am broadly interested in neural computation and the properties of biological population codes.  My current research focuses on understanding how the physical constraints of biological neural networks, such as sparse connectivity, affect their ability to learn.
 
 Recent News
 ======
