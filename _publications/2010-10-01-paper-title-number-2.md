@@ -1,15 +1,15 @@
 ---
-title: "Paper Title Number 2"
+title: "Structural Reorganization and Relaxation Dynamics of Axially Stressed Chromosomes"
 collection: publications
-permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
-date: 2010-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper2.pdf'
-citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
+permalink: /publication/2023-structural-reorganization-relaxation-dynamics
+excerpt: 'This paper explores the structural reorganization and relaxation dynamics of axially stressed chromosomes, offering new insights into chromosome behavior under stress conditions.'
+date: 2023-05-02
+venue: 'Biophysical Journal'
+paperurl: 'https://www.cell.com/biophysj/abstract/S0006-3495(23)00202-3'
+citation: 'Benjamin S. Ruben, Vinicius Contessoto, Michele Di Pierro, Ryan Cheng, Jose Onuchic. (2023). &quot;Structural Reorganization and Relaxation Dynamics of Axially Stressed Chromosomes.&quot; <i>Biophysical Journal</i>.'
 ---
-This paper is about the number 2. The number 3 is left for future work.
+This paper explores the structural reorganization and relaxation dynamics of axially stressed chromosomes, offering new insights into chromosome behavior under stress conditions.
 
-[Download paper here](http://academicpages.github.io/files/paper2.pdf)
+[Download paper here](https://www.cell.com/biophysj/abstract/S0006-3495(23)00202-3)
 
-Recommended citation: Your Name, You. (2010). "Paper Title Number 2." <i>Journal 1</i>. 1(2).
+Recommended citation: Benjamin S. Ruben, Vinicius Contessoto, Michele Di Pierro, Ryan Cheng, Jose Onuchic. (2023). "Structural Reorganization and Relaxation Dynamics of Axially Stressed Chromosomes." <i>Biophysical Journal</i>.
