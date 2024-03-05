@@ -9,5 +9,3 @@ citation: 'Benjamin S. Ruben, Vinicius Contessoto, Michele Di Pierro, Ryan Cheng
 ---
 
 [Download paper here](https://www.cell.com/biophysj/abstract/S0006-3495(23)00202-3)
-
-Recommended citation: Benjamin S. Ruben, Vinicius Contessoto, Michele Di Pierro, Ryan Cheng, Jose Onuchic. (2023). "Structural Reorganization and Relaxation Dynamics of Axially Stressed Chromosomes." <i>Biophysical Journal</i>.
