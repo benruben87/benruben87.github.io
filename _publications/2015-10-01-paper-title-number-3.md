@@ -9,5 +9,3 @@ citation: 'J. A. Zavatone-Veth, A. Canatar, Benjamin S. Ruben, and C. Pehlevan. 
 ---
 
 [Download paper here](https://proceedings.neurips.cc/paper_files/paper/2021/file/cf9dc5e4e194fc21f397b4cac9cc3ae9-Paper.pdf)
-
-Recommended citation: J. A. Zavatone-Veth, A. Canatar, Benjamin S. Ruben, and C. Pehlevan. (2021). "Asymptotics of representation learning in finite Bayesian networks." <i>Advances in Neural Information Processing Systems (NeurIPS)</i>.
