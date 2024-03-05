@@ -2,7 +2,7 @@
 title: "Learning Curves for Noisy Heterogeneous Feature-Subsampled Ridge Ensembles"
 collection: publications
 permalink: /publication/2023-learning-curves-noisy-heterogeneous
-date: 2023-05-01
+date: 2023-12-01
 venue: 'Advances in Neural Information Processing Systems (NeurIPS)'
 paperurl: 'http://academicpages.github.io/files/paper1.pdf'
 citation: 'Benjamin S. Ruben, Cengiz Pehlevan. (2023). &quot;Learning Curves for Noisy Heterogeneous Feature-Subsampled Ridge Ensembles.&quot; <i>Advances in Neural Information Processing Systems (NeurIPS)</i>.'
