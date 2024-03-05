@@ -8,13 +8,12 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD candidate in the Biophysics program at Harvard University, working on problems at the intersection between neuroscience and machine learning. I am advised by Cengiz Pehlevan.  As an undergraduate I attended Rice University, where I studied physics, chemical physics, and mathematics and worked with Jose Onuchic on genome organization and mechanics.
+I am a PhD candidate in the Biophysics program at Harvard University, where I am advised by Cengiz Pehlevan.  As an undergraduate I attended Rice University, where I studied physics, chemical physics, and mathematics and worked with Jose Onuchic on genome organization and mechanics.
 
 My current research focuses on understanding how the physical properties of biological neural networks affect their ability to perform computations.
 
 News
 ======
-1. Presenting a poster COSYNE 2024
-1. NeurIPS 2023 poster and paper
-1. Presented at Janelia Junior NeuroTheory workshop.
-1. NeurIPS 2021 co-author
+1. In March 2024, I will be traveling to Lisbon to present a poster at COSYNE. Find my poster titled "Biologially plausible neural decoder ensembles are robust to overfitting and noise" during poster session 2 at station 159!
+1. In November 2023, I participated in the Jenelia Junior Theoretial Neuroscience workshop, where I presented research on biologically plausible neural decoder ensembles.
+1. The first first-author paper of my PhD was accepted to NeurIPS 2023!  Looking forward to presenting a poster at the New Orleans meeting.
