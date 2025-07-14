@@ -14,7 +14,7 @@ In my PhD research, I am broadly interested in neural computation and the proper
 
 Recent News
 ======
-1.**[May 2024]** My most recent pre-print "No Free Lunch From Random Feature Ensembles" has been accepted as a poster presentation at ICML 2025 in Vancouver!
+1.**[May 2024]** My most recent pre-print "No Free Lunch From Random Feature Ensembles" has been accepted as a poster presentation at ICML 2025 in Vancouver!  I will be presenting Thu 17 Jul 4:30 p.m. PDT — 7 p.m. PDT at poster #W-1018.
 2. **[March 2024]** I will be traveling to Lisbon to present a poster at COSYNE! Find my poster titled "Biologially plausible neural decoder ensembles are robust to overfitting and noise" during poster session 2 at station 159!
 3. **[December 2023]** The first first-author paper of my PhD was accepted to NeurIPS 2023!  Looking forward to presenting a poster at the New Orleans meeting.
 4. **[November 2023]** I participated in the Jenelia Junior Theoretial Neuroscience workshop, where I presented research on biologically plausible neural decoder ensembles.
