@@ -14,7 +14,7 @@ In my PhD research, I am broadly interested in the relationship between anatomy 
 
 Recent News
 ======
-1. **[September 2025]** It was an honor to be able to present my work on learning in the cerebellar ensembles at the [Computational Neuroscience Next Generation conference](https://ctcn.wustl.edu/2025-next-gen-symposium/) at Washington University in St. Louis.
+1. **[September 2025]** It was an honor to be able to present my work on learning in cerebellar ensembles at the [Computational Neuroscience Next Generation conference](https://ctcn.wustl.edu/2025-next-gen-symposium/) at Washington University in St. Louis.
 
 2. **[May 2025]** My most recent pre-print "No Free Lunch From Random Feature Ensembles" has been accepted as a poster presentation at ICML 2025 in Vancouver!  I will be presenting Thu 17 Jul 4:30 p.m. PDT — 7 p.m. PDT at poster #W-1018.
 
