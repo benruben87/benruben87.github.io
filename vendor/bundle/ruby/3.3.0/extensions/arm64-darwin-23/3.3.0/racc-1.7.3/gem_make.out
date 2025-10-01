@@ -1,0 +1,18 @@
+current directory: /Users/benruben/Documents/Website/vendor/bundle/ruby/3.3.0/gems/racc-1.7.3/ext/racc/cparse
+/opt/homebrew/opt/ruby/bin/ruby extconf.rb
+creating Makefile
+
+current directory: /Users/benruben/Documents/Website/vendor/bundle/ruby/3.3.0/gems/racc-1.7.3/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20250930-62050-iu1cfx sitelibdir\=./.gem.20250930-62050-iu1cfx clean
+
+current directory: /Users/benruben/Documents/Website/vendor/bundle/ruby/3.3.0/gems/racc-1.7.3/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20250930-62050-iu1cfx sitelibdir\=./.gem.20250930-62050-iu1cfx
+compiling cparse.c
+linking shared-object racc/cparse.bundle
+
+current directory: /Users/benruben/Documents/Website/vendor/bundle/ruby/3.3.0/gems/racc-1.7.3/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20250930-62050-iu1cfx sitelibdir\=./.gem.20250930-62050-iu1cfx install
+/usr/bin/install -c -m 0755 cparse.bundle ./.gem.20250930-62050-iu1cfx/racc
+
+current directory: /Users/benruben/Documents/Website/vendor/bundle/ruby/3.3.0/gems/racc-1.7.3/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20250930-62050-iu1cfx sitelibdir\=./.gem.20250930-62050-iu1cfx clean
