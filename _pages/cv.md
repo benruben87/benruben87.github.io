@@ -7,53 +7,68 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
+<style>
+.page__title {
+  display: none;
+}
+</style>
 
-Education
-======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+## Position
 
-Work experience
-======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+**PhD Candidate in Biophysics**
+Harvard University.  
+Advised by Cengiz Pehlevan
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+---
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+## Education
+
+**PhD Biophysics**
+Harvard University, Cambridge, MA
+September 2020 - Present
+
+**SM (Master of Science) Applied Mathematics**
+Harvard University, Cambridge, MA
+May 2024
+
+**BS Physics; BS Chemical Physics; BA Mathematics**
+Rice University, Houston, TX
+August 2016 - May 2020
+
+---
+
+## Selected Awards and Honors
+
+**Bonner Book Award** (2018, 2019, 2020)
+Rice University Department of Physics and Astronomy
+*"Given each year to the most outstanding sophomore, junior, senior, and first year graduate students in physics"*
+
+**Phi Beta Kappa** (2020)
+Rice University
+
+**Distinction in Research and Creative Work** (2020)
+Rice University
+
+---
+
+## Teaching Experience
+
+**Applied Math 50: Introduction to Applied Mathematics**
+Teaching Fellow, Harvard
+Spring 2024
+
+**Applied Math 226: Theory of Neural Computation**
+Teaching Fellow, Harvard
+Fall 2022
+
+**Physics 181: Statistical Physics**
+Teaching Fellow, Harvard
+Spring 2022
+
+**Applied Physics 50A: Physics as a Foundation for Science and Engineering**
+Teaching Fellow, Harvard
+Fall 2021
+
+---
+
+*Full curriculum vitae available on request*
