@@ -15,7 +15,7 @@ In my PhD research, I am broadly interested in the relationship between anatomy 
 Recent News
 ======
 
-1. **[March 2026]** I'm at COSYNE to present a poster my upcoming work on learning in the cerebellar cortex.  Come by poster 3-198 to chat!  Pre-print coming soon.
+1. **[March 2026]** I'm at COSYNE to present a poster on my upcoming work on learning in the cerebellar cortex.  Come by poster 3-198 on Saturday to chat!  pre-print coming soon.
 
 2. **[September 2025]** It was an honor to be able to present my work on learning in cerebellar ensembles at the [Computational Neuroscience Next Generation conference](https://ctcn.wustl.edu/2025-next-gen-symposium/) at Washington University in St. Louis.
 
