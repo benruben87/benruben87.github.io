@@ -15,10 +15,12 @@ In my PhD research, I am broadly interested in the relationship between anatomy 
 Recent News
 ======
 
-1. **[September 2025]** It was an honor to be able to present my work on learning in cerebellar ensembles at the [Computational Neuroscience Next Generation conference](https://ctcn.wustl.edu/2025-next-gen-symposium/) at Washington University in St. Louis.
+1. **[March 2026]** I'm at COSYNE to present a poster my upcoming work on learning in the cerebellar cortex.  Come by poster 3-198 to chat!  Pre-print coming soon.
 
-2. **[May 2025]** My most recent pre-print "No Free Lunch From Random Feature Ensembles" has been accepted as a poster presentation at ICML 2025 in Vancouver!  I will be presenting Thu 17 Jul 4:30 p.m. PDT — 7 p.m. PDT at poster #W-1018.
+2. **[September 2025]** It was an honor to be able to present my work on learning in cerebellar ensembles at the [Computational Neuroscience Next Generation conference](https://ctcn.wustl.edu/2025-next-gen-symposium/) at Washington University in St. Louis.
 
-3. **[March 2024]** I will be traveling to Lisbon to present a poster at COSYNE! Find my poster titled "Biologially plausible neural decoder ensembles are robust to overfitting and noise" during poster session 2 at station 159!
+3. **[May 2025]** My most recent pre-print "No Free Lunch From Random Feature Ensembles" has been accepted as a poster presentation at ICML 2025 in Vancouver!  I will be presenting Thu 17 Jul 4:30 p.m. PDT — 7 p.m. PDT at poster #W-1018.
 
-4. **[December 2023]** The first first-author paper of my PhD was accepted to NeurIPS 2023!  Looking forward to presenting a poster at the New Orleans meeting.
+4. **[March 2024]** I will be traveling to Lisbon to present a poster at COSYNE! Find my poster titled "Biologially plausible neural decoder ensembles are robust to overfitting and noise" during poster session 2 at station 159!
+
+5. **[December 2023]** The first first-author paper of my PhD was accepted to NeurIPS 2023!  Looking forward to presenting a poster at the New Orleans meeting.
