@@ -17,6 +17,20 @@ author_profile: true
 
 {% include base_path %}
 
+Preprints
+======
+
 {% for post in site.publications reversed %}
-  {% include archive-single.html %}
+  {% if post.type == 'preprint' %}
+    {% include archive-single.html %}
+  {% endif %}
+{% endfor %}
+
+Articles
+======
+
+{% for post in site.publications reversed %}
+  {% if post.type != 'preprint' %}
+    {% include archive-single.html %}
+  {% endif %}
 {% endfor %}

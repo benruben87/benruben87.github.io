@@ -15,9 +15,9 @@ In my PhD research, I am broadly interested in the relationship between anatomy 
 Recent News
 ======
 
-1. **[May 2026]** [New pre-print is up!](https://www.biorxiv.org/content/10.64898/2026.05.06.723116v1.article-info)  This work represents the primary contribution of my PhD thesis work, and we believe it provides an important update to the Marr-Albus model of cerebellar cortex.
+1. **[May 2026]** [New pre-print is up!](https://www.biorxiv.org/content/10.64898/2026.05.06.723116v1)  This work represents the primary contribution of my PhD thesis work, and we believe it provides an important update to the Marr-Albus model of learning cerebellar cortex.
 
-2. **[April 2026]** Happy to share that I successfully defended my PhD Thesis!  A huge thanks to my advisor, Cengiz Pehlevan, and committee members Jan Drugowitsch, Haim Sompolinsky, and Wei-Chung Allen Lee.
+2. **[April 2026]** Happy to share that I successfully defended my PhD dissertation!  A huge thanks to my advisor, Cengiz Pehlevan, and committee members Jan Drugowitsch, Haim Sompolinsky, and Wei-Chung Allen Lee.
 
 3. **[March 2026]** I'm at COSYNE to present a poster on my upcoming work on learning in the cerebellar cortex.  Come by poster 3-198 on Saturday to chat!  pre-print coming soon.
 
