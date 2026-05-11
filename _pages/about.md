@@ -15,12 +15,16 @@ In my PhD research, I am broadly interested in the relationship between anatomy 
 Recent News
 ======
 
-1. **[March 2026]** I'm at COSYNE to present a poster on my upcoming work on learning in the cerebellar cortex.  Come by poster 3-198 on Saturday to chat!  pre-print coming soon.
+1. **[May 2026]** [New pre-print is up!](https://www.biorxiv.org/content/10.64898/2026.05.06.723116v1.article-info)  This work represents the primary contribution of my PhD thesis work, and we believe it provides an important update to the Marr-Albus model of cerebellar cortex.
 
-2. **[September 2025]** It was an honor to be able to present my work on learning in cerebellar ensembles at the [Computational Neuroscience Next Generation conference](https://ctcn.wustl.edu/2025-next-gen-symposium/) at Washington University in St. Louis.
+2. **[April 2026]** Happy to share that I successfully defended my PhD Thesis!  A huge thanks to my advisor, Cengiz Pehlevan, and committee members Jan Drugowitsch, Haim Sompolinsky, and Wei-Chung Allen Lee.
 
-3. **[May 2025]** My most recent pre-print "No Free Lunch From Random Feature Ensembles" has been accepted as a poster presentation at ICML 2025 in Vancouver!  I will be presenting Thu 17 Jul 4:30 p.m. PDT — 7 p.m. PDT at poster #W-1018.
+3. **[March 2026]** I'm at COSYNE to present a poster on my upcoming work on learning in the cerebellar cortex.  Come by poster 3-198 on Saturday to chat!  pre-print coming soon.
 
-4. **[March 2024]** I will be traveling to Lisbon to present a poster at COSYNE! Find my poster titled "Biologially plausible neural decoder ensembles are robust to overfitting and noise" during poster session 2 at station 159!
+4. **[September 2025]** It was an honor to be able to present my work on learning in cerebellar ensembles at the [Computational Neuroscience Next Generation conference](https://ctcn.wustl.edu/2025-next-gen-symposium/) at Washington University in St. Louis.
 
-5. **[December 2023]** The first first-author paper of my PhD was accepted to NeurIPS 2023!  Looking forward to presenting a poster at the New Orleans meeting.
+5. **[May 2025]** My most recent pre-print "No Free Lunch From Random Feature Ensembles" has been accepted as a poster presentation at ICML 2025 in Vancouver!  I will be presenting Thu 17 Jul 4:30 p.m. PDT — 7 p.m. PDT at poster #W-1018.
+
+6. **[March 2024]** I will be traveling to Lisbon to present a poster at COSYNE! Find my poster titled "Biologially plausible neural decoder ensembles are robust to overfitting and noise" during poster session 2 at station 159!
+
+7. **[December 2023]** The first first-author paper of my PhD was accepted to NeurIPS 2023!  Looking forward to presenting a poster at the New Orleans meeting.
